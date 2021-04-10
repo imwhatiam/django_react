@@ -5,7 +5,7 @@ import NewStudentModal from "./NewStudentModal";
 
 import axios from "axios";
 
-import { API_URL } from "../constants";
+import { API_URL } from "../constants/api";
 
 class Home extends Component {
   state = {
